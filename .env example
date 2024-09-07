@@ -1,0 +1,8 @@
+# Qdrant server URL
+URL=""
+# Qdrant dimension of the collection
+DIMENSION=""
+# Qdrant collection name
+COLLECTION_NAME=""
+#Metric for distance measure in Qdrant
+METRIC_NAME=""
