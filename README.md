@@ -1,6 +1,6 @@
 **Retrieval Augmented Generation System using Qdrant and LLAMA2 on Bedrock**
 
-This project implements a retrieval augmented generation system utilizing Qdrant for retrieval and LLAMA2 on Bedrock for text generation. It uses the Anferico BERT model for text embeddings.
+This project implements a retrieval augmented generation system utilizing Qdrant for retrieval and LLAMA2 on Bedrock for text generation. It uses a Large Sentence BERT model for text embeddings.
 
 
 **Installation**
